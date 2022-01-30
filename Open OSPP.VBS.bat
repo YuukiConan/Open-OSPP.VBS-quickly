@@ -14,13 +14,13 @@ goto openapp
 :openapp
 
 echo Open OSPP.VBS....
-start "%TARGET_PATH%\Microsoft Office\Office16\OSPP.VBS
+start "%TARGET_PATH%\Microsoft Office\Office16\OSPP.VBS"
 goto load1
 
 :load1
 
        set path= "%TARGET_PATH%\Microsoft Office\Office16\"
-     set file= "%TARGET_PATH%\Microsoft Office\Office16\SLERROR.xml
+     set file= "%TARGET_PATH%\Microsoft Office\Office16\SLERROR.xml"
    copy= "%TARGET_PATH%\Microsoft Office\Office16\SLERROR.xml"
   copy to= "C://Users/Admin/Dekstop/"
  goto load2
