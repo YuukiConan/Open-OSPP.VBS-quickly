@@ -5,6 +5,7 @@ echo Working with Office 2016 and Windows x64 System
 
 IF DEFINED (%ProgramFiles(x86)%) (
 goto loading
+)
 
 :loading
 
