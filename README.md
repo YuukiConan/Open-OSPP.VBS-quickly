@@ -9,5 +9,3 @@ Sebelum melakukan hal ini, silakan catat:
   Silakan edit file ini.... 
 - Jika Anda menemukan pesan error ini: (The system cannot find the file specified), jangan khawatir!
   Karena itu tidak akan mempengaruhi file ini.
-
-Yuuki
